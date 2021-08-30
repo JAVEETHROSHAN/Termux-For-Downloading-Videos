@@ -22,11 +22,9 @@ resetall='\e[0m'  #remove all attribute
 # OUTPUT To END_USER Start
 echo ""
 printf "$resetall $blue $b"
-echo "      MODIFIED BY :"
 printf "$green"
 figlet " " AmanBytes
 printf "$resetcol $blue"
-echo "  Support On YouTube : AmanBytes"
 printf "$resetall $yellow"
 echo "_____________________________________"
 echo ""
